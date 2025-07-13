@@ -1,0 +1,34 @@
+{
+  "name": "AI Avatar #001",
+  "description": "A unique AI-generated avatar created by Dou Bao. This NFT is part of a collection exploring artificial intelligence and digital identity.",
+  "image": "ipfs://bafybeidwrcyaygtj2g4b3phxjcnakznms4ucx7ldlbt33mv5ypjsjxabb4",
+  "attributes": [
+    {
+      "trait_type": "Creation Type",
+      "value": "AI-Generated",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Style",
+      "value": "comic" 
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smiling"
+    }
+  ],
+  "properties": {
+    "category": "AI Art",
+    "files": [
+      {
+        "uri": "ipfs://bafybeidwrcyaygtj2g4b3phxjcnakznms4ucx7ldlbt33mv5ypjsjxabb4",
+        "type": "image/png"
+      }
+    ]
+  }
+}
